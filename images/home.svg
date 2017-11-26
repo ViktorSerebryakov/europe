@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19" height="16" viewBox="0 0 19 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Forma_1" data-name="Forma 1" class="cls-1" d="M427.5,28.144l-6.532,5.066V40h5.248V35.024H429V40h5.027V33.21Zm6.805,1.128V25.8h-2.751v1.337L427.5,23.995,418,31.358l1.311,1.717,8.184-6.348,8.184,6.348,1.31-1.717Z" transform="translate(-418 -24)"/>
+</svg>
